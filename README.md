@@ -1,5 +1,3 @@
-# DevJoint_DataCleaning_EDA
-
 #  Daşınmaz Əmlak Verilənlərinin Analizi
 
 Bu layihədə Azərbaycan daşınmaz əmlak bazarına aid elanlar üzərində **Exploratory Data Analysis (EDA)** aparılmışdır. Layihənin əsas məqsədi verilənlər bazasını təmizləmək, məlumatların keyfiyyətini artırmaq, qiymətə təsir edən amilləri araşdırmaq və nəticələri müxtəlif vizuallaşdırmalar vasitəsilə təqdim etməkdir.
